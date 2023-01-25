@@ -45,6 +45,23 @@ zip_ref.close()
 
 <b> This project was done a part of our Semester-5 course on Data Analytics and Visualization. </b>
 
+<h3 align="center"><b>Mentor by:</b></h3>
+
+<div align="center">	
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">  
+  <tr>
+<td>
+  <img src="https://media.licdn.com/dms/image/D4D03AQEXUW2fphJQgg/profile-displayphoto-shrink_400_400/0/1669448441593?e=1680134400&v=beta&t=6zSciVYBwsg6Is4MW0naECvHsxRhZfdjojSPAxjL7OA" width="150" height="150"/>
+     
+    Dhaval Deshkar
+
+<p align="center">
+<a href = "https://www.linkedin.com/in/dhaval-deshkar-6b35ba195/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+</tr>
+</table>
+</div>
 
 <h3 align="center"><b>Developed by: </b></h3>
 <div align="center">
@@ -68,27 +85,6 @@ zip_ref.close()
 <p align="center">
 <a href = "https://www.linkedin.com/in/hetpatel2312/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 </p>
-
-
-
-</tr>
-</table>
-</div>
-<h3 align="center"><b>Mentor by:</b></h3>
-
-<div align="center">	
-<table style="border:1px solid black;margin-left:auto;margin-right:auto;">  
-  <tr>
-<td>
-  <img src="https://media.licdn.com/dms/image/D4D03AQEXUW2fphJQgg/profile-displayphoto-shrink_400_400/0/1669448441593?e=1680134400&v=beta&t=6zSciVYBwsg6Is4MW0naECvHsxRhZfdjojSPAxjL7OA" width="150" height="150"/>
-     
-    Dhaval Deshkar
-
-<p align="center">
-<a href = "https://www.linkedin.com/in/dhaval-deshkar-6b35ba195/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
-</p>
-</td>
-
 
 
 
