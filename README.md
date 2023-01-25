@@ -47,7 +47,7 @@ zip_ref.close()
 
 
 <h3 align="center"><b>Developed by: </b></h3>
-	
+<div align="center">
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">  
   <tr>
 <td>
@@ -73,7 +73,7 @@ zip_ref.close()
 
 </tr>
 </table>
-
+</div>
 <h3 align="center"><b>Mentor by:</b></h3>
 
 <div align="center">	
