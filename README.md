@@ -46,7 +46,7 @@ zip_ref.close()
 <b> This project was done a part of our Semester-5 course on Data Analytics and Visualization. </b>
 
 
-<h3 align="center"><b>Developed with :heart: by: </b></h3>
+<h3 align="center"><b>Developed by: </b></h3>
 	
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">  
   <tr>
@@ -73,8 +73,8 @@ zip_ref.close()
 
 </tr>
 </table>
-
-<h3 align="center"><b>Mentor by</b></h3>
+</br>
+<h3 align="center"><b>Mentor by:</b></h3>
 	
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">  
   <tr>
