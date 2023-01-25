@@ -73,9 +73,10 @@ zip_ref.close()
 
 </tr>
 </table>
-</br>
+
 <h3 align="center"><b>Mentor by:</b></h3>
-	
+
+<div align="center">	
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">  
   <tr>
 <td>
@@ -93,3 +94,4 @@ zip_ref.close()
 
 </tr>
 </table>
+</div>
