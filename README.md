@@ -51,7 +51,7 @@ zip_ref.close()
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">  
   <tr>
 <td>
-  <img src="https://media.licdn.com/dms/image/D4D03AQEXUW2fphJQgg/profile-displayphoto-shrink_400_400/0/1669448441593?e=1680134400&v=beta&t=6zSciVYBwsg6Is4MW0naECvHsxRhZfdjojSPAxjL7OA" width="150" height="150"/>
+  <img src="https://media.licdn.com/dms/image/D4D03AQEXUW2fphJQgg/profile-displayphoto-shrink_800_800/0/1669448441593?e=1680739200&v=beta&t=E8NVc-0Rb9Ul8m0tzVYz-2c1T5_QuoEZtTOL4z84rys" width="150" height="150"/>
      
     Dhaval Deshkar
 
